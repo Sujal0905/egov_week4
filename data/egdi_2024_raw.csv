@@ -1,0 +1,194 @@
+Country,Group,Rating Class,Rank 2024,EGDI 2024,MSQ
+Denmark,VHEGDI,VH,1,0.9847,
+Estonia,VHEGDI,VH,2,0.9727,
+Singapore,VHEGDI,VH,3,0.9691,
+Republic of Korea,VHEGDI,VH,4,0.9679,
+Iceland,VHEGDI,VH,5,0.9671,No*
+Saudi Arabia,VHEGDI,VH,6,0.9602,
+United Kingdom of Great Britain and Northern Ireland,VHEGDI,VH,7,0.9577,
+Australia,VHEGDI,VH,8,0.9577,No*
+Finland,VHEGDI,VH,9,0.9575,
+Netherlands,VHEGDI,VH,10,0.9538,No*
+United Arab Emirates,VHEGDI,VH,11,0.9533,
+Germany,VHEGDI,VH,12,0.9382,
+Japan,VHEGDI,VH,13,0.9351,
+Sweden,VHEGDI,VH,14,0.9326,
+Norway,VHEGDI,VH,15,0.9315,No*
+New Zealand,VHEGDI,VH,16,0.9265,
+Spain,VHEGDI,VH,17,0.9206,
+Bahrain,VHEGDI,VH,18,0.9196,No*
+United States of America,VHEGDI,VH,19,0.9195,No*
+Ireland,VHEGDI,VH,20,0.9138,
+Lithuania,VHEGDI,VH,21,0.9110,No*
+Austria,VHEGDI,VH,22,0.9065,No*
+Israel,VHEGDI,VH,23,0.9014,No*
+Kazakhstan,VHEGDI,VH,24,0.9009,
+Uruguay,VHEGDI,VH,25,0.9006,
+Switzerland,VHEGDI,VH,26,0.9004,
+Türkiye,VHEGDI,V3,27,0.8913,
+Malta,VHEGDI,V3,28,0.8886,No*
+Latvia,VHEGDI,V3,29,0.8852,No*
+Ukraine,VHEGDI,V3,30,0.8841,No*
+Chile,VHEGDI,V3,31,0.8827,
+Croatia,VHEGDI,V3,32,0.8818,
+Slovenia,VHEGDI,V3,33,0.8759,
+France,VHEGDI,V3,34,0.8744,No*
+China,VHEGDI,V3,35,0.8718,No*
+Greece,VHEGDI,V3,36,0.8674,
+Poland,VHEGDI,V3,37,0.8648,
+Cyprus,VHEGDI,V3,38,0.8619,
+Serbia,VHEGDI,V3,39,0.8618,
+South Africa,VHEGDI,V3,40,0.8616,No*
+Oman,VHEGDI,V3,41,0.8576,
+Argentina,VHEGDI,V3,42,0.8573,No*
+Russian Federation,VHEGDI,V2,43,0.8533,
+Liechtenstein,VHEGDI,V2,44,0.8528,
+Luxembourg,VHEGDI,V2,45,0.8466,
+Mongolia,VHEGDI,V2,46,0.8457,
+Canada,VHEGDI,V2,47,0.8452,
+Armenia,VHEGDI,V2,48,0.8422,
+Portugal,VHEGDI,V2,49,0.8415,
+Brazil,VHEGDI,V2,50,0.8403,
+Italy,VHEGDI,V2,51,0.8356,
+Thailand,VHEGDI,V2,52,0.8351,
+Qatar,VHEGDI,V2,53,0.8244,
+Czech Republic,VHEGDI,V2,54,0.8239,No*
+Bulgaria,VHEGDI,V2,55,0.8145,No*
+Belgium,VHEGDI,V2,56,0.8121,
+Malaysia,VHEGDI,V2,57,0.8111,No*
+Peru,VHEGDI,V1,58,0.8070,
+Hungary,VHEGDI,V1,59,0.8043,
+Slovakia,VHEGDI,V1,60,0.8021,No*
+Costa Rica,VHEGDI,V1,61,0.8009,
+Albania,VHEGDI,V1,62,0.8000,No*
+Uzbekistan,VHEGDI,V1,63,0.7999,
+Indonesia,VHEGDI,V1,64,0.7991,No*
+Mexico,VHEGDI,V1,65,0.7850,No*
+Kuwait,VHEGDI,V1,66,0.7812,
+Ecuador,VHEGDI,V1,67,0.7800,
+Colombia,VHEGDI,V1,68,0.7793,No*
+Georgia (Country),VHEGDI,V1,69,0.7792,No*
+Republic of Moldova,VHEGDI,V1,70,0.7720,
+Viet Nam,VHEGDI,V1,71,0.7709,
+Romania,VHEGDI,V1,72,0.7636,No*
+Philippines,VHEGDI,V1,73,0.7621,
+Azerbaijan,VHEGDI,V1,74,0.7607,
+Brunei Darussalam,VHEGDI,V1,75,0.7554,
+Mauritius,VHEGDI,V1,76,0.7506,
+Belarus,HEGDI,HV,77,0.7445,No*
+Kyrgyzstan,HEGDI,HV,78,0.7316,
+Panama,HEGDI,HV,79,0.7298,No*
+Paraguay,HEGDI,HV,80,0.7251,
+Montenegro,HEGDI,HV,81,0.7211,
+Monaco,HEGDI,HV,82,0.7175,No*
+Bahamas,HEGDI,H3,83,0.7143,
+North Macedonia,HEGDI,H3,84,0.7070,No*
+Dominican Republic,HEGDI,H3,85,0.7013,
+Trinidad and Tobago,HEGDI,H3,86,0.6973,
+Tunisia,HEGDI,H3,87,0.6935,No*
+Andorra,HEGDI,H3,88,0.6893,No*
+Jordan,HEGDI,H3,89,0.6849,
+Morocco,HEGDI,H3,90,0.6841,No*
+Barbados,HEGDI,H3,91,0.6815,No*
+Seychelles,HEGDI,H3,92,0.6773,
+Fiji,HEGDI,H3,93,0.6754,
+Maldives,HEGDI,H3,94,0.6745,No*
+Egypt,HEGDI,H3,95,0.6699,
+Jamaica,HEGDI,H3,96,0.6678,No*
+India,HEGDI,H3,97,0.6678,
+Sri Lanka,HEGDI,H3,98,0.6667,
+Bolivia,HEGDI,H3,99,0.6651,
+Bangladesh,HEGDI,H3,100,0.6570,No*
+Iran (Islamic Republic of),HEGDI,H3,101,0.6564,
+San Marino,HEGDI,H3,102,0.6551,No*
+Bhutan,HEGDI,H3,103,0.6511,
+Grenada,HEGDI,H3,104,0.6458,No*
+Antigua and Barbuda,HEGDI,H3,105,0.6428,
+Suriname,HEGDI,H3,106,0.6366,No*
+Bosnia and Herzegovina,HEGDI,H3,107,0.6329,
+Ghana,HEGDI,H3,108,0.6317,No*
+Kenya,HEGDI,H3,109,0.6314,No*
+Saint Kitts and Nevis,HEGDI,H3,110,0.6305,No*
+Cabo Verde,HEGDI,H3,111,0.6238,
+Botswana,HEGDI,H2,112,0.6118,No*
+Eswatini,HEGDI,H2,113,0.6081,
+Namibia,HEGDI,H2,114,0.6007,No*
+El Salvador,HEGDI,H2,115,0.5988,No*
+Algeria,HEGDI,H2,116,0.5956,No*
+Saint Vincent and the Grenadines,HEGDI,H2,117,0.5876,No*
+Rwanda,HEGDI,H2,118,0.5799,No*
+Nepal,HEGDI,H2,119,0.5781,No*
+Cambodia,HEGDI,H2,120,0.5754,No*
+Gabon,HEGDI,H2,121,0.5741,No*
+Guatemala,HEGDI,H2,122,0.5738,No*
+Tajikistan,HEGDI,H2,123,0.5606,No*
+Côte d'Ivoire,HEGDI,H2,124,0.5587,No*
+Libya,HEGDI,H1,125,0.5466,No*
+Lebanon,HEGDI,H1,126,0.5449,
+Dominica,HEGDI,H1,127,0.5445,No*
+Guyana,HEGDI,H1,128,0.5443,No*
+Vanuatu,HEGDI,H1,129,0.5427,No*
+Zambia,HEGDI,H1,130,0.5424,No*
+Venezuela,HEGDI,H1,131,0.5360,No*
+Nicaragua,HEGDI,H1,132,0.5318,No*
+Saint Lucia,HEGDI,H1,133,0.5255,No*
+Tonga,HEGDI,H1,134,0.5164,
+Senegal,HEGDI,H1,135,0.5163,No*
+Pakistan,HEGDI,H1,136,0.5096,
+Palau,HEGDI,H1,137,0.5072,No*
+Myanmar,HEGDI,MH,138,0.5001,No*
+Cuba,MEGDI,MH,139,0.4921,No*
+Samoa,MEGDI,MH,140,0.4899,No*
+Belize,MEGDI,MH,141,0.4872,No*
+Honduras,MEGDI,MH,142,0.4856,No*
+Marshall Islands,MEGDI,MH,143,0.4823,No*
+Nigeria,MEGDI,MH,144,0.4815,No*
+Turkmenistan,MEGDI,MH,145,0.4757,No*
+Benin,MEGDI,MH,146,0.4578,
+Kiribati,MEGDI,MH,147,0.4572,
+Iraq,MEGDI,MH,148,0.4572,
+Zimbabwe,MEGDI,MH,149,0.4481,No*
+Uganda,MEGDI,MH,150,0.4464,No*
+Nauru,MEGDI,MH,151,0.4454,No*
+Lao People's Democratic Republic,MEGDI,MH,152,0.4404,
+United Republic of Tanzania,MEGDI,M3,153,0.4327,No*
+Sao Tome and Principe,MEGDI,M3,154,0.4308,No*
+Cameroon,MEGDI,M3,155,0.4294,No*
+Angola,MEGDI,M3,156,0.4149,No*
+Lesotho,MEGDI,M3,157,0.4123,No*
+Tuvalu,MEGDI,M3,158,0.4043,No*
+Timor-Leste,MEGDI,M3,159,0.4020,No*
+Guinea,MEGDI,M3,160,0.4006,No*
+Togo,MEGDI,M3,161,0.3920,No*
+Syrian Arab Republic,MEGDI,M3,162,0.3888,
+Malawi,MEGDI,M3,163,0.3753,No*
+Solomon Islands,MEGDI,M2,164,0.3681,No*
+Mauritania,MEGDI,M2,165,0.3491,No*
+Congo,MEGDI,M2,166,0.3391,No*
+Micronesia (Federated States of),MEGDI,M2,167,0.3235,No*
+Madagascar,MEGDI,M2,168,0.3235,
+Ethiopia,MEGDI,M1,169,0.3111,
+Guinea-Bissau,MEGDI,M1,170,0.3083,No*
+Papua New Guinea,MEGDI,M1,171,0.3076,No*
+Sierra Leone,MEGDI,M1,172,0.3042,No*
+Mali,MEGDI,M1,173,0.3005,No*
+Djibouti,MEGDI,M1,174,0.2911,No*
+Burkina Faso,MEGDI,M1,175,0.2895,
+Equatorial Guinea,MEGDI,M1,176,0.2855,No*
+Mozambique,MEGDI,M1,177,0.2848,No*
+Sudan,MEGDI,M1,178,0.2759,No*
+Democratic Republic of the Congo,MEGDI,M1,179,0.2715,No*
+Comoros,MEGDI,M1,180,0.2586,No*
+Gambia,MEGDI,LM,181,0.2552,
+Liberia,MEGDI,LM,182,0.2513,No*
+Burundi,LEGDI,LM,183,0.2481,No*
+Democratic People's Republic of Korea,LEGDI,L3,184,0.2320,No*
+Yemen,LEGDI,L3,185,0.2318,
+Haiti,LEGDI,L3,186,0.2117,No*
+Niger,LEGDI,L3,187,0.2116,No*
+Afghanistan,LEGDI,L3,188,0.2083,No*
+Chad,LEGDI,L3,189,0.1785,No*
+Eritrea,LEGDI,L2,190,0.1576,No*
+Somalia,LEGDI,L2,191,0.1468,
+South Sudan,LEGDI,L1,192,0.1191,No*
+Central African Republic,LEGDI,L1,193,0.0947,No*

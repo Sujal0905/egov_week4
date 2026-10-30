@@ -1,0 +1,21 @@
+region,group,n_countries,share
+Africa,Low,7,13
+Africa,Middle,28,51.9
+Africa,High,17,31.5
+Africa,Very High,2,3.7
+Americas,Low,1,2.9
+Americas,Middle,3,8.6
+Americas,High,20,57.1
+Americas,Very High,11,31.4
+Asia,Low,3,6.4
+Asia,Middle,5,10.6
+Asia,High,14,29.8
+Asia,Very High,25,53.2
+Europe,Low,0,0
+Europe,Middle,0,0
+Europe,High,7,16.3
+Europe,Very High,36,83.7
+Oceania,Low,0,0
+Oceania,Middle,8,57.1
+Oceania,High,4,28.6
+Oceania,Very High,2,14.3

@@ -1,0 +1,6 @@
+region,countries,mean_egdi,median_egdi,sd_egdi,best,share_high_or_very_high,msq_response_rate
+Europe,43,0.8493,0.8648,0.088,Denmark,100,55.8
+Asia,47,0.699,0.7607,0.204,Singapore,83,66
+Americas,35,0.6701,0.6678,0.15,United States of America,88.6,37.1
+Oceania,14,0.5289,0.4861,0.199,Australia,42.9,28.6
+Africa,54,0.4247,0.4136,0.179,South Africa,35.2,20.4
